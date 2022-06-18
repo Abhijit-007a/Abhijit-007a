@@ -6,15 +6,15 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Portfolio with Three.js and React**
+- 🔭 I’m currently working on **ReactJs and NodeJs**
 
-- 🌱 I’m currently learning **Data Interpretetion.**
+- 🌱 I’m currently learning **ReactJs**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **Capstone Projects**
 
-- 👨‍💻 All of my projects are available at **My Portfolio**
+<!-- - 👨‍💻 All of my projects are available at **My Portfolio** -->
 
-- 📫 How to reach me **biswasavhijit.cse@gmail.com**
+- 📫 How to reach me **biswasavhijit.edu@gmail.com**
 
 - ⚡ Fun fact **I play games and love to travel.**
 
